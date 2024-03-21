@@ -1,0 +1,11 @@
+U:\EX POO\Calculatrice_test\bin\Debug\Calculatrice_test.exe.config
+U:\EX POO\Calculatrice_test\bin\Debug\Calculatrice_test.exe
+U:\EX POO\Calculatrice_test\bin\Debug\Calculatrice_test.pdb
+U:\EX POO\Calculatrice_test\obj\Debug\Calculatrice_test.csproj.AssemblyReference.cache
+U:\EX POO\Calculatrice_test\obj\Debug\Calculatrice_test.csproj.SuggestedBindingRedirects.cache
+U:\EX POO\Calculatrice_test\obj\Debug\Calculatrice_test.Form1.resources
+U:\EX POO\Calculatrice_test\obj\Debug\Calculatrice_test.Properties.Resources.resources
+U:\EX POO\Calculatrice_test\obj\Debug\Calculatrice_test.csproj.GenerateResource.cache
+U:\EX POO\Calculatrice_test\obj\Debug\Calculatrice_test.csproj.CoreCompileInputs.cache
+U:\EX POO\Calculatrice_test\obj\Debug\Calculatrice_test.exe
+U:\EX POO\Calculatrice_test\obj\Debug\Calculatrice_test.pdb
